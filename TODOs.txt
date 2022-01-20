@@ -1,0 +1,9 @@
+# TODOs:
+
+dataset.py 
+    - TODO: prepare generic dataset for speaker dependent configuration
+    - TODO: Prepare RAVDESS dataset class
+    
+trainer.py
+    - TODO: early stopping
+    - TODO: add tensorboard
